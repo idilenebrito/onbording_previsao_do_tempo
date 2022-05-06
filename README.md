@@ -17,15 +17,15 @@ Este exercício é um onbording de um app de previsão do tempo que foi aprimora
 Para o design do switch utilizei o [package day_night_switcher](https://pub.dev/packages/day_night_switcher)  e para mudança de estado utilizei o Provider.
 
 ### Tema Light
-![print_tema_light](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/print_01.png)
-![print_tema_light](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/print_02.png)
-![print_tema_light](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/print_03.png)
+![print_tema_light](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/print_01.png)
+![print_tema_light](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/print_02.png)
+![print_tema_light](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/print_03.png)
 
 
 ### Tema Dark
-![print_tem_dark](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/print_1.png)
-![print_tem_dark](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/print_2.png)
-![print_tem_dark](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/print_3.png)
+![print_tem_dark](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/print_1.png)
+![print_tem_dark](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/print_2.png)
+![print_tem_dark](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/print_3.png)
 
 ### gif
-![print_tem_dark](https://github.com/idilenebrito/onbording/blob/master/exercicio_01/animacoes_explicitas/assets/prints/previsao_tempo.gif)
+![print_tem_dark](https://github.com/idilenebrito/onbording_previsao_do_tempo/blob/main/assets/prints/previsao_tempo.gif)
